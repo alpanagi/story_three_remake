@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/css.uss?fileID=7433441132597879392&amp;guid=80efab3f92423bae4b7c379087835b7f&amp;type=3#css" />
+    <engine:VisualElement name="BlackScreen" class="hide" style="flex-grow: 1; overflow: hidden; background-color: rgb(0, 0, 0); align-items: center; align-content: auto; justify-content: center; align-self: auto; flex-direction: column; -unity-text-align: upper-left;">
+        <engine:Label text="SUCCESS!!&#10;SUCCESS!!&#10;SUCCESS!!" name="Success" style="align-items: auto; align-self: auto; align-content: auto; -unity-text-align: upper-left; background-color: rgba(0, 0, 0, 0); color: rgb(255, 255, 255); font-size: 32px; -unity-font-definition: url(&quot;project://database/Assets/Fonts/PixelifySans-Medium.ttf?fileID=12800000&amp;guid=2859453df40469611af3d1bce2eb6c89&amp;type=3#PixelifySans-Medium&quot;);" />
+    </engine:VisualElement>
+</engine:UXML>
